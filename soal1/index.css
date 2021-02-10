@@ -1,0 +1,47 @@
+.github-card {
+  text-align: center;
+  margin:auto;
+  width: 60%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  background-color: black;
+  color:white;
+}
+
+img {
+  border-radius: 999px;
+  width: 200px;
+  height: 200px;
+}
+
+.wrapper-bio {
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper-social {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-around;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.wrapper-repository {
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.following {
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
